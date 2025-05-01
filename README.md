@@ -1,6 +1,6 @@
 # Refer to your professional statement outline notes from step one and consider:
 
-# Hello, I'm Norfateha 
+## Hello, I'm Norfateha 
 
 <a href="https://www.linkedin.com/in/norfatehamohammad" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -18,7 +18,7 @@
 + I am dedicated to staying updated on emerging threats, vulnerabilities, and cybersecurity trends to enhance security measures.
 + I regularly pursue certifications, training, and research courses to expand my skills and understanding of new security challenges.
 
-# Interest
+## Interest
 [c.	What interests you most about a career in cybersecurity?]
 
 I am a highly motivated cybersecurity professional with a strong passion for protecting organizations from evolving cyber threats. With a keen interest in ethical hacking, risk management, and incident response, I thrive best in high-risk environments where security, vigilance, and quick decision-making are critical.
